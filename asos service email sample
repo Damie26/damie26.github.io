@@ -1,0 +1,252 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en">
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta name="color-scheme" content="light dark">
+   <meta name="supported-color-schemes" content="light dark">
+   <title>Asos Policy Update Project</title>
+   <style>
+      table{
+         border-spacing: 0;
+      }
+      td{
+         padding: 0;
+      }
+      a{
+         text-decoration: none;
+         color: #3d3d3d;
+      }
+      p{
+         font-size: 15px;
+      }
+      img{
+         border-width: 0;
+         border: 0;
+      }
+      
+      @media screen and (max-width:399.98px){
+       .pd-600-none{
+         display: none!important;
+       }  
+      }
+      :root{
+         color-scheme: light dark;
+         supported-color-schemes: light dark;
+      }
+      @media (prefers-color-scheme:dark){
+         body, center, table {
+            background-color: #3d3d3d!important;
+            color: #EAEAEA!important;
+         }
+         .bg-darkmode{
+            background-color: #DBDBDB!important;
+            color: #3d3d3d!important;
+         }
+      }
+   </style>
+   <!--[if (gte mso 9)|(IE)]>
+   <xml>
+      <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+   </xml>
+   <![endif]-->
+</head>
+<body style="Margin: 0;padding-left: 0;padding-right: 0;padding-top: 0;padding-bottom: 0; min-width: 100%;background-color: #F5F5F5;">
+   <!--[if (gte mso 9)|(IE)]>
+      <style type="text/css">
+         body{background-color: #F5F5F5;!important}
+         body,table,td,a,p{font-family:'sans-serif', Helvetica, Arial,!important}
+      </style>
+   <![end if]-->
+   <center style="background-color: #F5F5F5;table-layout: fixed;width: 100%;padding-bottom: 30px;">
+      <div style="max-width: 600px;background-color: #F5F5F5;box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">
+         <div style="font-size: 0;color: #fafdfe;max-width: 0;max-height: 0;opacity: 0;overflow: hidden;line-height: 1px;mso-line-height-rule: exactly;display: none;mso-hide: all;">We're updating our privacy notice</div>
+         <!--[if (gte mso 9)|(IE)]>
+            <table width="600" role=presentation style="border-spacing: 0;color: ;" >
+            <tr>
+            <td style="padding-left: 0;padding-right: 0;padding-top: 0;padding-bottom: 0;">
+         <![end if]-->
+         <table role="presentation" align="center" style="background-color: #F5F5F5;color: #3d3d3d;width: 100%;max-width: 600px;Margin: 0;padding-left: 0;padding-right: 0;padding-top: 0;padding-bottom: 0;font-family: 'sans-serif', Helvetica, Arial;border-spacing: 0;">
+
+<!--START LOGO  -->
+            <tr>
+               <td style="padding-left: 0;padding-right: 0;padding-top: 0;padding-bottom: 0;">
+                  <table class="asos-logo bg-darkmode" role="presentation" style="border-spacing: 0;width: 100%;text-align: center;background-color: #313030;">
+                     <tr>
+                        <td style="padding-top: 15px;padding-bottom: 15px;padding-left: 10px;padding-right: 10px;">
+                           <a href="www.example.com" target="_blank"><img src="https://i.ibb.co/VC2SJzG/asos-logo.png" alt="asos-logo" title="asos-logo" width="120" style="max-width: 120px;height: auto;"border="0"></a>
+                        </td>
+                     </tr>
+                  </table>
+               </td>
+            </tr>
+<!--END LOGO  -->
+
+<!--START CONTENT  -->
+            <tr>
+               <td style="padding-left: 0;padding-right: 0;padding-top: 0;padding-bottom: 0;">
+                  <table class="content" style="border-spacing: 0;background-color: #F1F1F1;width: 100%;"role="presentation">
+                     <tr>
+                        <td style="font-size: 81px;text-align: center;padding-left: 20px;padding-right: 20px;padding-top: 10px;padding-bottom: 20px;">
+                           <p style="font-size: 18px;font-weight: bold;line-height: 27px;">We’re updating our privacy notice 
+                           </p>
+                           <p style="font-size: 16px;font-weight: 300;line-height: 24px;">To make sure we’re as transparent and open as possible about the use of your data, we’ve made some changes. We want to make it clear to you what info we need, why we need it and what we do with it, so we’ll be updating our privacy notice on August 1st, 2022 to reflect these changes.
+                           </p>
+                           <p style="font-size: 16px;font-weight: 300;line-height: 24px;">You can read the updated privacy notice in the link below and, once it’s in effect, you’ll be able to access it from the Privacy & Cookies link at the bottom of our site pages. 
+                           </p>
+                           <p style="font-size: 16px;font-weight: 300;line-height: 24px;">You don’t need to do anything, we just wanted to give you a heads up.
+                           </p>
+                        </td>
+                     </tr>
+
+                     <tr>
+                        <td align="center">
+                           <table class="bg-darkmode" role="presentation"cellpadding="0"cellspacing="0">
+                              <tr>
+                                 <td style="background-color: #313030;">
+                                    <a class="bg-darkmode" href="www.example.com" class="btn-bg" target="_blank" style="text-decoration: none;border: 1px solid #504E4E;padding-left: 45px;padding-right: 45px;padding-top: 12px;padding-bottom: 12px;display: inline-block;color: #fafdfe;font-weight: bold;font-size: 15px;background-color: #313030;">FIND OUT MORE</a>
+                                 </td>
+                              </tr>
+                           </table>
+                        </td>
+                     </tr>
+
+                     <tr>
+                        <td style="padding-top: 15px;padding-bottom: 0;">
+                           <table role="presentation" style="width: 100%; border-spacing: 0;text-align: center;">
+                              <tr>
+                                 <td >
+                                    <p style="font-size: 15px; font-weight: 300;line-height: 22px;">Thanks,</p>
+                                    <p style="font-size: 15px; font-weight: bold;line-height: 22px;">The ASOS Team</p>
+                                 </td>
+                              </tr>
+                           </table>
+                        </td>
+                     </tr>
+      
+                  </table>
+
+               </td>
+            </tr>
+<!--END CONTENT  -->
+
+<!--START TWO-COL FOOTER  -->
+            <tr>
+               <td style="padding-top: 0;padding-bottom: 0;padding-left: 0;padding-right: 0;">
+                  <table class="bg-darkmode" role="presentation" style="border-spacing: 0;width: 100%;background-color: #313030;">
+                     <tr>
+                        <td class="two-col" style="font-size: 0;padding-left: 20px;padding-right: 20px;padding-top: 20px;padding-bottom: 20px;">
+                            <!--[if (gte mso 9)|(IE)]>
+                              <table width="100%" role="presentation" style="border-spacing: 0;">
+                              <tr>
+                              <td valign="top" style="width: 260px; padding-left: 0;padding-right: 0;padding-bottom: 0;padding-top: 0;">
+                           <![end if]-->
+                           <table class="column bg-darkmode" role="presentation" style="border-spacing: 0;max-width: 300px;display: inline-block;vertical-align: top;">
+                              <tr>
+                                 <td class="padding" style="padding-left: 20px;padding-right: 20px;padding-bottom: 0;padding-top: 10px;">
+                                    <table class="bg-darkmode" class="content" role="presentation" style="border-spacing: 0;text-align: center;">
+                                       <tr>                                         
+                                          <td style="font-size: 15px; padding-top: 10px;padding-bottom: 10px;">
+                                             <p class="bg-darkmode" style="color: #F5F5F5;font-size: 15px;font-weight: bold;">Find inspiration</p>
+                                          </td> 
+                                       </tr>
+
+                                       <tr>
+                                          <td style="padding-top: 0;padding-right: 0;padding-bottom: 10px;padding-left: 10px;">
+                                             <a href="example.com" target="_blank"><img src="https://i.ibb.co/bPLzh61/circle-facebook.png" alt="facebook" width="30" style="padding-right: 10px;" border="0"></a>
+                                             <a href="example.com" target="_blank"><img src="https://i.ibb.co/sRH7TK2/circle-twitter.png" alt="twitter" width="30" style="padding-right: 10px;" border="0"></a>
+                                             <a href="example.com" target="_blank"><img src="https://i.ibb.co/x8G1NMz/circle-instagram.png" alt="instagram" width="30" style="padding-right: 10px;" border="0"></a>
+                                             <a href="example.com" target="_blank"><img src="https://i.ibb.co/K5wbWBS/circle-linkedin.png" alt="linkedin" width="30" style="padding-right: 10px;" border="0"></a>
+                                             <a href="example.com" target="_blank"><img src="https://i.ibb.co/VQ9nCv3/circle-youtube.png" alt="Youtube" width="30" style="padding-right: 10px;" border="0"></a>
+                                          </td>
+                                       </tr>
+                                  
+                                    </table>
+                                 </td>
+                              </tr>                             
+                           </table>
+                           <!--[if (gte mso 9)|(IE)]>
+                              </td><td valign="top" style="width: 80px;"padding-left: 0;padding-right: 0;padding-bottom: 0;padding-top: 0;">
+                           <![end if]-->
+                           <table class="bg-darkmode pd-600-none" role="presentation" style="border-spacing: 0;max-width: 80px;display: inline-block;vertical-align: top;">
+                              <tr>
+                                 <td class="padding pd-600-none" style="padding-left: 20px;padding-right: 20px;padding-bottom: 10px;padding-top: 0;">
+                                    <table class="content pd-600-none" role="presentation" style="border-spacing: 0;text-align: center;">
+                                       <tr>
+                                          <td class="vertical-line pd-600-none" style="border-right: 1px solid #3d3d3d;height: 100px; padding-left: 0px;padding-right: 1px;">
+                                          </td>
+                                       </tr>
+                                    </table>
+                                 </td>
+                              </tr>
+                           </table>
+                           <!--[if (gte mso 9)|(IE)]>
+                              </td><td valign="top" style="width: 260px;"padding-left: 0;padding-right: 0;padding-bottom: 0;padding-top: 0;">
+                           <![end if]-->
+                           <table class="column bg-darkmode" role="presentation" style="border-spacing: 0;max-width: 260px;display: inline-block;vertical-align: top;">
+                              <tr>
+                                 <td class="padding" style="padding-left: 20px;padding-right: 20px;padding-bottom: 10px;padding-top: 0;">
+                                    <table class="bg-darkmode" class="content" role="presentation" style="border-spacing: 0;text-align: center;">
+                                       <tr>
+                                          <td style="font-size: 15px; padding-top: 10px;padding-bottom: 10px;">
+                                             <p class="bg-darkmode" style="color: #F5F5F5;font-size: 15px;font-weight: bold;">Get the app</p>
+                                          </td>
+                                       </tr>
+
+                                       <tr>
+                                          <td style="padding-top: 0;padding-right: 0;padding-bottom: 10px;padding-left: 10px;">
+                                             <a href="example.com" target="_blank"><img class="" src="https://i.ibb.co/W0xy08x/Toppng-com-app-store-png.png" alt="facebook" width="100" style="padding-right: 10px;" border="0"></a>
+                                             <a href="example.com" target="_blank"><img class="" src="https://i.ibb.co/RzznvKZ/Toppng-com-google-play-png.png" alt="twitter" width="90" style="padding-right: 10px;" border="0"></a>
+                                          </td>
+                                       </tr>
+                                    </table>
+                                 </td>
+                              </tr>
+                           </table>                                                    
+                           <!--[if (gte mso 9)|(IE)]>
+                              </td>
+                              </tr>
+                              </table>
+                           <![end if]-->
+
+                        </td>
+                     </tr>
+                  </table>
+
+               </td>
+            </tr>
+<!--END FOOTER  -->
+
+<!--START FOOTER TEXT -->
+            <tr>
+               <td style="padding-top: 0;padding-bottom: 0;padding-left: 0;padding-right: 0;">
+                  <table class="bg-darkmode" role="presentation" style="border-spacing: 0;width: 100%;background-color: #313030;">
+                     <tr>
+                        <td style="padding-left: 15px;padding-right: 15px;">
+                           <p class="bg-darkmode" style="color: #F5F5F5; font-size: 11px;font-weight: 300;line-height: 20px;letter-spacing: 0.5px;">This inbox is not attended so please don't reply to this email. This is a service email. You will receive these no matter what your marketing communication prefrences are.</p>
+                           <p style="color: #F5F5F5; font-size: 11px;font-weight: 300;line-height: 16px;letter-spacing: 0.5px;"><a href="example.com" target="_blank" class="bg-darkmode" style="text-decoration: none;">ASOS, Greater London House, Hampstead Road, London, NW1 7FB, United Kingdom. ASOS.com is a wholly-owned subsidiary of ASOS plc. Registered in England – 3584121. For customers in the EEA only; ASOS.com (Netherlands branch), having Dutch Trade Register number (KVK-nummer, Handelsregisternummer) 000052657604.</a>
+                           </p>
+                        </td>
+                     </tr>
+                  </table>
+               </td>
+            </tr>
+<!--END FOOTER TEXT -->
+         </table>
+         <!--[if (gte mso 9)|(IE)]>
+            </td>
+            </tr>
+            </table>
+         <![end if]-->
+
+
+      </div>
+
+   </center>
+   
+</body>
+</html>
